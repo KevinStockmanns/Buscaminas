@@ -9,7 +9,7 @@ Buscaminas es un juego clásico en el que el objetivo es despejar un campo de mi
 - **Interfaz Gráfica**: Utiliza Tkinter para proporcionar una interfaz gráfica intuitiva y fácil de usar.
 - **Almacenamiento de Puntajes**: Los puntajes de los jugadores se almacenan en una base de datos SQLite, permitiendo llevar un registro de los mejores resultados.
 - **Funcionalidad de Juego**: Implementa todas las funcionalidades básicas del Buscaminas, incluyendo la colocación de minas, la revelación de celdas y el manejo de victorias y derrotas.
-- **Configuración Personalizada**: Permite ajustar la dificultad del juego eligiendo la dificultad.
+- **Configuración Personalizada**: Permite ajustar la dificultad del juego eligiendo la dificultad, cambiando el tamaño y la cantidad de minas.
 
 ## Requisitos
 
